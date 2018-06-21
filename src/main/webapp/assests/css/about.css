@@ -1,0 +1,121 @@
+.banner-padding {
+    padding-top:160px;
+    padding-bottom:110px;
+    background-color:#363636;
+    
+}
+.topb {
+background-image:url(https://static.pexels.com/photos/160483/hiker-traveler-trip-travel-160483.jpeg);
+}
+.banner-heading h2 {
+    color:#fff;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase
+    
+    }
+ .banner-heading P {
+    color:#fff;
+    padding-bottom:20px;
+    }
+    
+.site-btn {
+    color: #FFFFFF;
+    font-size: 1em;
+    text-decoration: none;
+    padding: .75em 2em;
+    background: #82b62d;
+    text-align: center;
+    border: solid 2px #82b62d;
+    margin: 1em 0 1em 0;
+}
+.site-btn:hover {
+    color: #FFFFFF;
+    background: #82b62d;
+     border: solid 2px #e2e2e2;
+}
+.paddingTB60 {
+    padding-top:60px;
+    padding-bottom:60px;
+}
+.about-us-content {
+    padding-top:70px;
+}
+.bg-grey {
+    background-color:#edeeef ;
+}
+.bg-green {
+    background-color:#82b62d ;
+}
+
+.icon {
+    font-size:40px;
+    color: #82b62d ;
+}
+.border {
+    background: #82b62d;
+    height: 2px;
+    width: 265px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+.feature-box {
+    padding: 0 20px;
+    margin-bottom: 30px;
+}
+/*subscribe */
+.subscribe-heading h3 {
+    color: #FFFFFF;
+    font-size: 2.5em;
+    font-weight: 700;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+}
+
+.subscribe-field input[type="text"] {
+    display: inline-block;
+    background: #FFFFFF;
+    border: solid 1px #FFFFFF;
+    width: 50%;
+    outline: none;
+    padding: 1em;
+    font-size: .9em;
+    color: #999999;
+}
+/*footer css */
+.footer {
+    background: #191919;
+    padding: 1em 0;
+}
+.footer-one h5, .footer-two h5 {
+    color: #fff;
+    font-size: 18px;
+   
+}
+.footer-one p, .footer-two p {
+    color: #fff;
+    font-size: 13px;
+    line-height: 1.5em;
+    margin: 1em 0;
+}
+.footer-three {
+    text-align: center;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+.footer-three ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+.ficons {
+    font-size: 18px;
+    padding: .5em;
+    border: 1px solid #fff;
+    color: #fff;
+    width: 37px;
+    height: 37px;
+    margin-top: 4em;
+}
